@@ -1,24 +1,27 @@
 ---
 name: 📝 스터디 회고
 about: 스터디 종료 후 회고를 남기는 템플릿입니다.
-title: "[회고] YYYY-MM-DD 스터디"
-labels: retrospect
-assignees: ''
-
+title: "[주차] 회고고"
+labels: retrospective
+assignees: ""
 ---
 
 ### 🗓️ 스터디
+
 - 회고 제출 마감: 2025-- (일) 23시 59분
 
 ---
 
 ### ✅ 회고 템플릿
 
-**KEEP**  
+**KEEP**
+
 > 좋았던 부분, 앞으로 계속 유지하고 싶은 방식
 
-**PROBLEM**  
+**PROBLEM**
+
 > 잘 되지 않았던 부분, 문제라고 생각하는 부분
 
-**TRY**  
+**TRY**
+
 > PROBLEM을 해결할 수 있도록 실천해보고 싶은 솔루션
